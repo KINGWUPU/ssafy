@@ -1,0 +1,23 @@
+[33mcommit 2348ab75e55b81c95c9761cdb808f1b94bbfb4fe[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: KINGWUPU <mark980805@gmail.com>
+Date:   Fri Jan 12 10:56:59 2024 +0900
+
+    0112 git test
+
+[33mcommit b795c3dff36a96d916b9707853b3f7e7c75aaf42[m[33m ([m[1;31morigin2/master[m[33m)[m
+Author: KINGWUPU <mark980805@gmail.com>
+Date:   Thu Jan 11 15:32:53 2024 +0900
+
+    update a.txt
+
+[33mcommit 08f16be8a0d36496efceec15c3e499b872bfdea7[m
+Author: KINGWUPU <mark980805@gmail.com>
+Date:   Thu Jan 11 15:32:23 2024 +0900
+
+    add b.txt
+
+[33mcommit ad81ffc949eb51e361bd7f3788dad0531fab2310[m
+Author: KINGWUPU <mark980805@gmail.com>
+Date:   Thu Jan 11 15:31:45 2024 +0900
+
+    add a.txt
